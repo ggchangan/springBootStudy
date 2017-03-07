@@ -13,8 +13,10 @@ import javax.swing.*;
 @SpringBootApplication
 public class SpringBootStudyApplication {
 
+	/*
 	@Autowired
 	private AuthorSettings authorSettings;
+	*/
 
 	/*
 	@RequestMapping("/")

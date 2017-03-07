@@ -1,7 +1,7 @@
 #创建数据库
 #DROP DATABASE etl
 CREATE DATABASE IF NOT EXISTS `etl`;
-USE mgsearch;
+USE etl;
 
 #创建表 Sys_User
 DROP TABLE IF EXISTS `Sys_User`;
