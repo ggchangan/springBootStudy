@@ -1,4 +1,4 @@
-package com.ggchangan.security;
+package com.ggchangan.tmp.security;
 
 import com.ggchangan.dao.UserDao;
 import com.ggchangan.domain.SysRole;
